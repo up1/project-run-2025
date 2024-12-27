@@ -40,5 +40,15 @@ export const events: Event[] = [
     description: 'ดงห้วยหลวง ครอสคันทรี่ ',
     imageUrl: 'https://scontent.fbkk2-8.fna.fbcdn.net/v/t39.30808-6/453221914_807050424750410_5850122967647747136_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEP8OU8eiSk3u8ejPZ3Qi-78j9p-O3EHtTyP2n47cQe1OalDMIhgyGeuSdzB1QGJIA&_nc_ohc=0d4cLsUlbOkQ7kNvgHuNxNi&_nc_oc=AdgjTCEpbdGH0Ay3s1DgJ06qdYEMRj_Tj8GBFaWBIC20rCV9WEcrR2HR5Q8zUu4MNT00oL_JL-fEYtUCnhyHW_K_&_nc_zt=23&_nc_ht=scontent.fbkk2-8.fna&_nc_gid=A2pd-LbWUlU3oyLJrtU72EX&oh=00_AYCS_hSyaaNN_8pxtMW_sY4m3qoTRGur0YYp-wVhhSoX1Q&oe=677466DE',
     registrationUrl: 'https://www.facebook.com/donghuailuangrun'
+  },
+  {
+    id: '5',
+    name: 'Langka Luang - Doi Mod Trail',
+    date: '2025-01-17',
+    location: 'เชียงใหม่',
+    distance: '113 km',
+    description: 'สนามลังกาหลวงดอยมดเทลครั้งที่ 9',
+    imageUrl: 'https://scontent.fbkk2-7.fna.fbcdn.net/v/t39.30808-6/428136041_900509165206020_8294210594444986083_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEc0O6sTEsb5mNWuV_PnPfIB4G5UPkVGVwHgblQ-RUZXNRFjY9L0C3GqkCo0ebpRaw&_nc_ohc=7BHDVE2QIvwQ7kNvgFwhHIV&_nc_oc=AdiFXtBa21Olf__H0FZFJrmxVPk_xpwggqKeJneu9rP3ZYig-Sx00VzBxGwCFu78Nmh3VuGQwqhm1elbCHyVgVy_&_nc_zt=23&_nc_ht=scontent.fbkk2-7.fna&_nc_gid=A2VF9de4AU85mjHakbRLVQU&oh=00_AYBqWemHq8d1gulxoP4vM-g0804-AeN0tl11clI9wSMBhg&oe=67745FEB',
+    registrationUrl: 'https://www.facebook.com/profile.php?id=100057408341087'
   }
 ];
