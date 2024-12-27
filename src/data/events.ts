@@ -50,5 +50,15 @@ export const events: Event[] = [
     description: 'สนามลังกาหลวงดอยมดเทลครั้งที่ 9',
     imageUrl: 'https://scontent.fbkk2-7.fna.fbcdn.net/v/t39.30808-6/428136041_900509165206020_8294210594444986083_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEc0O6sTEsb5mNWuV_PnPfIB4G5UPkVGVwHgblQ-RUZXNRFjY9L0C3GqkCo0ebpRaw&_nc_ohc=7BHDVE2QIvwQ7kNvgFwhHIV&_nc_oc=AdiFXtBa21Olf__H0FZFJrmxVPk_xpwggqKeJneu9rP3ZYig-Sx00VzBxGwCFu78Nmh3VuGQwqhm1elbCHyVgVy_&_nc_zt=23&_nc_ht=scontent.fbkk2-7.fna&_nc_gid=A2VF9de4AU85mjHakbRLVQU&oh=00_AYBqWemHq8d1gulxoP4vM-g0804-AeN0tl11clI9wSMBhg&oe=67745FEB',
     registrationUrl: 'https://www.facebook.com/profile.php?id=100057408341087'
+  },
+  {
+    id: '6',
+    name: 'Kheknoi Ultra Trail',
+    date: '2025-01-18',
+    location: 'เพชรบูรณ์',
+    distance: '100 km',
+    description: 'รายการวิ่งเทรลผ่านป่าชุมชนของตำบลเข็กน้อย ชุมชนม้งที่ใหญ่ที่สุดในไทย',
+    imageUrl: 'https://scontent.fbkk2-8.fna.fbcdn.net/v/t39.30808-6/466975692_537434295719548_412082104054644397_n.png?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFDTtaHI1Z4vwDrSHbHzqDhTbyw07pILQVNvLDTukgtBbZ4LSuOro9RMm8YTIYgwEA&_nc_ohc=TqYoSLL2E3kQ7kNvgE6oliw&_nc_oc=AdjslBFm9H6kIZeSzp8doQeFYVrQSoJ3wQXBKLvytybUVcjCfw9rjmaI0hT5j8SLeyHCcfZ_CvGiGIS8LPq-MYdo&_nc_zt=23&_nc_ht=scontent.fbkk2-8.fna&_nc_gid=A7kUBwNU4ai3vs7IwIjYugA&oh=00_AYDDrxyfeIV255Q3lgNcaUvJxA4QdWdF8jrXXOBKT50mxA&oe=67743B66',
+    registrationUrl: 'https://www.facebook.com/Kheknoiultratrail'
   }
 ];
