@@ -14,7 +14,7 @@ export const events: Event[] = [
   {
     id: '2',
     name: 'Thailand Earth Trail Series @Mor Hin Khao, Chaiyaphum',
-    date: '2024-03-22',
+    date: '2025-01-11',
     location: 'ชัยภูมิ',
     distance: '50 km',
     description: 'วิ่งท้าลมหนาว โอบกอดเขา...ที่ชัยภูมิ 𝐓𝐄𝐓𝐒-𝟐𝟎𝟐𝟒 @𝐌𝐎𝐑 𝐇𝐈𝐍 𝐊𝐇𝐀𝐎🪨🌳',
